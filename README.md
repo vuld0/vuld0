@@ -32,4 +32,3 @@
 
 <br><br><br><br>
 
-**⭐️ From [TheDudeThatCode](https://github.com/vuld0)**
